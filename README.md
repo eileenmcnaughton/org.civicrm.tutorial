@@ -8,7 +8,7 @@ Create and display walkthrough tutorials for CiviCRM screens.
 
 ## Requirements
 
-* CiviCRM 4.7+
+* CiviCRM 5.7+
 
 ## Usage
 
